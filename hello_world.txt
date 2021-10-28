@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sahar is the true king of middle-erth!!!.commodo et ligula eget dolor. massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Lolol
+=======
+<<<<<<< HEAD
+Sahar is the true king of middle-erth!!!.commodo et ligula eget dolor. massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Lolol
+>>>>>>> af2b5971b5e91cf6517bfbcede473b5c8936e2b2
 =======
 Sahar is the true king of middle-erth!!!.commodo et ligula eget dolor. massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Lolol
 >>>>>>> 2956e552d11c8768af22d93a36bf9aa4a8bfaec9
